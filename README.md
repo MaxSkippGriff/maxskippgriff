@@ -1,4 +1,4 @@
-### Hi there, I'm Max 👋
+## Hi, I'm Max 👋
 
 ## I'm a computer science conversion student
 
