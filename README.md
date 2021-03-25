@@ -8,6 +8,8 @@
 
 - 👯  I’m looking to collaborate on anything which interests or excites me
 
+- :cop: In my previous job, I was an investigator for the police watchdog, the IOPC
+
 - ⚡ When I'm not programming, I love running, writing and spending time with friends and family
 
 ## Connect with me:
