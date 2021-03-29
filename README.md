@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on an attention-based model to perform re-identification (re-ID) of Amur tigers in the wild (Datasets here: https://cvwc2019.github.io/challenge.html)
 
-- 🌱  I’m learning Java, Python 3 and Angular
+- 🌱  I’m learning Java, Python, JavaScript, and Angular
 
 - 👯  I’m looking to collaborate on anything which interests or excites me
 
