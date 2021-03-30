@@ -13,3 +13,5 @@
 - ⚡ When I'm not programming, I love running, writing, speaking different languages (badly), and spending time with friends and family
 
 ## Connect with me:
+
+On medium https://maxskippgriff.medium.com/
