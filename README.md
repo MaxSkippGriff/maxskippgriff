@@ -14,4 +14,4 @@
 
 ## Connect with me:
 
-On medium https://maxskippgriff.medium.com/
+- :hearts: Medium https://maxskippgriff.medium.com/
